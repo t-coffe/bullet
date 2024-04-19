@@ -1,6 +1,6 @@
 h1{
   text-align: center;
-  margin: 5vw;
+  margin-top: 5vw;
 }
 
 .bullet {
@@ -21,4 +21,5 @@ p, span {
 
 button {
   font-size: 2vw;
+  margin-top: 2vw;
 }
