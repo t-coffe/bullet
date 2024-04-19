@@ -1,0 +1,24 @@
+h1{
+  text-align: center;
+  margin: 5vw;
+}
+
+.bullet {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+p, span {
+  font-size: 4vw;
+}
+
+button {
+  font-size: 2vw;
+}
